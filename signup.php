@@ -82,7 +82,7 @@ return true;
 
 
 <div class="form-floating mb-3">
-<input class="form-control" id="email" name="email" type="email" placeholder="phpgurukulteam@gmail.com" required />
+<input class="form-control" id="email" name="email" type="email" placeholder="abc@gmail.com" required />
 <label for="inputEmail">Email address</label>
 </div>
  
